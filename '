@@ -1,0 +1,11 @@
+defmodule Web3elx do
+  @moduledoc """
+  Documentation for Web3elx.
+  """
+
+  @doc """
+  """
+  def setProvider(provider) do
+    provider
+  end
+end
